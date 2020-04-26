@@ -1,0 +1,19 @@
+So we had to fix some things, especially with the AB mask once we started rolling out production.
+This is a summary:
+
+In this repository are corrected PDF, DXF, and silhouette studio files for both the AB mask and the Froedtert mask.
+
+There were several problems with the PDF of the AB mask pattern as it was currently available
+(1) It was asymmetric. The left side was larger than the right, and the angles of the side pieces were different for the left and right sides. 
+(2) It was sized incorrectly when imported into Silhouette, probably due to the translation of PDF -> DXF.
+(3) The outer edges weren't continuous lines, making it difficult to differentiate lines to cut vs. mark within Silhouette. This was probably from the PDF conversion.
+(4) Notches to line up and mark nose and chin darts were missing.
+(5) Pleats and notches to line up fabric for pleats were off, so that when the pleating jig was folded the notches did not line up.
+(6) The fold line down the center that Sarah suggested wasn't there, I added it.
+(7) I put the grain line and Illinoisppe.org on them. :)
+
+
+In the attached files these things are finally fixed. We hope!
+
+We also made similar files for the Froedtert mask. They are in this repository as well.  
+Note that the AB mask uses 4 times as much fabric per mask as the Froedtert mask.  It is also quite a bit more difficult to sew. 
